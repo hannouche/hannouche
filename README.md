@@ -16,7 +16,7 @@ My Tech Stacks
 
 <div align="center">
     
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,next,styledcomponents,tailwindcss,html,css,node,mongodb,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,javascript,next,styledcomponents,tailwindcss,html,css,nodejs,mongodb,express)](https://skillicons.dev)
 
 </div>
 
