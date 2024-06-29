@@ -1,7 +1,7 @@
 <h3 align="center">Hey there 👋</h3>
 
 <p align="center">
-My name is Ayoub, i'm a A dedicated Front-end Developer .
+My name is Ayoub, i'm a A dedicated Javascript Developer .
 </p>
 
 <h4 align="center">
@@ -16,7 +16,7 @@ My Tech Stacks
 
 <div align="center">
     
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,next,tailwindcss,html,css,nodejs,mongodb,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,javascript,next,tailwindcss,html,css,nodejs,mongodb,express,vercel,postman,heroku)](https://skillicons.dev)
 
 </div>
 
